@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Motherplate: A Responsive SCSS Boilerplate for Web Designers
 
 Preview: http://leemunroe.github.io/motherplate/example.html
@@ -96,3 +97,15 @@ As your project grows and you need to add more styles just create new .scss file
 * <a href="http://sass-lang.com/">SASS</a>
 * <a href="http://necolas.github.com/normalize.css/">normalize.css</a>
 * <a href="http://fontawesome.io/">Font Awesome</a>
+=======
+# backend-ui
+
+HTML/CSS UI Template (Backend)
+Contains User Interface Template for the backend.
+
+## Authors
+
+  * [Jonas Bergmeier](mailto:jonas.bergmeier@gmail.com)
+  * [Alexander Barnickel](mailto:alex@alba.io)
+  * [André König](mailto:andre.koenig@posteo.de)
+>>>>>>> 37b404a87b733504b26eb26b65e4964b7358545d
