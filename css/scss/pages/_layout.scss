@@ -71,7 +71,8 @@ body {
 		float: right;
 		margin: 12px 25px;
 		@include responsive($small-break) {
-			margin: 17px 4%;
+			margin: 0px 4% 17px;
+			float: left;
 		}
 	}
 }
@@ -86,7 +87,7 @@ ul#nav {
 	-webkit-padding-start: 0;
 	padding: 17px 25px;
 	@include responsive($small-break) {
-		padding: 17px 4%;
+		padding: 17px 4% 0px;
 	}
 	& li {
 		display: inline-block;
